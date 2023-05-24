@@ -1,0 +1,10 @@
+{
+  "production": false,
+  "base_url": "https://vpbank-api.etelecom.vn/api",
+  "sip_server": "wss://sip-dev.dinodata.vn:10443",
+  "sip_domain": "vpbank-dev.vn",
+  "default_call_target" : "0333453031",
+  "app_link" : "https://vpouat.page.link/download_app",
+  "office_time": "8:30-22:00",
+  "ivr_ring_time": "90"
+}
