@@ -1,0 +1,10 @@
+{
+  "production": false,
+  "base_url": "https://inc247-ext-test.vpbank.com.vn:8999/api",
+  "sip_server": "wss://inc247-ext-test.vpbank.com.vn:10433",
+  "sip_domain": "vpbank-uat.vn",
+  "default_call_target" : "3301",
+  "app_link" : "https://vpbankneouat.page.link/vkyc",
+  "office_time": "8:00-22:00",
+  "ivr_ring_time": "90"
+}
